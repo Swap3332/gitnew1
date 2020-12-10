@@ -1,6 +1,2 @@
 Hi newww
-<<<<<<< HEAD
-
-=======
->>>>>>> 47544e4e629411949896b24b46aaa2b26aecf90e
 Hi new filess
