@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi new
+=======
+Hi newww
+>>>>>>> 15b7227ed15bff85e188b582beff56cb91c47fde
 Hi new filess
