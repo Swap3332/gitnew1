@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii how
+=======
+hi
+>>>>>>> dd16cc0a75c83a8462b0ba7b00f7ce41b07ff04a
